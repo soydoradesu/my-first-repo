@@ -1,5 +1,5 @@
-Nama : Valentino Kim Fernando
+<strong>Nama : Valentino Kim Fernando
 
 NPM : 2306275771
 
-Kelas : PBP F
+Kelas : PBP F</strong>
